@@ -8,12 +8,17 @@ This was 95% written by AI, based on the vague memory of some computer game I
 played as a child (on a friend's Atari, I think), as I wanted to play around
 with Cursor, Cline, and OpenRouter.
 
+## Screenshot
+
+![PNG of Tic-Tac-Toe in Terminal Window](https://github.com/rmt/3d-tic-tac-toe/blob/master/tictactoe.png?raw=true)
+
 ## Features
 
 - **3D 4x4x4 Board**: Full 3D tic-tac-toe with 64 cells (4 layers of 4x4)
 - **Player vs AI**: Human plays as X, AI plays as O
 - **3D Navigation**: Arrow keys for X,Y movement, SPACE key to change layers
 - **3D Visual Display**: Shows all 4 layers side-by-side with vertical offset for 3D effect
+- **Rotate Perspectives**: Rotate through perspectives with the 'x', 'y', and 'z' keys
 - **ANSI Colors**: Colorful display with different colors for X, O, and UI elements
 - **Win Highlighting**: Winning pieces are highlighted with background colors when a win occurs
 - **Score Tracking**: Keeps track of wins, losses, and draws across multiple games
